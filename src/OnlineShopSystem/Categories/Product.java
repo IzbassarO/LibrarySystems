@@ -1,3 +1,5 @@
+package OnlineShopSystem.Categories;
+
 class Product {
     private int id;
     private String name;
